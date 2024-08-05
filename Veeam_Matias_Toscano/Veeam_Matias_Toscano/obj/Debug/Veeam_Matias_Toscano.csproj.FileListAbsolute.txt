@@ -1,0 +1,8 @@
+D:\Pruebas programación\Veeam_Matias_Toscano\Veeam_Matias_Toscano\bin\Debug\Veeam_Matias_Toscano.exe.config
+D:\Pruebas programación\Veeam_Matias_Toscano\Veeam_Matias_Toscano\bin\Debug\Veeam_Matias_Toscano.exe
+D:\Pruebas programación\Veeam_Matias_Toscano\Veeam_Matias_Toscano\bin\Debug\Veeam_Matias_Toscano.pdb
+D:\Pruebas programación\Veeam_Matias_Toscano\Veeam_Matias_Toscano\obj\Debug\Veeam_Matias_Toscano.csproj.AssemblyReference.cache
+D:\Pruebas programación\Veeam_Matias_Toscano\Veeam_Matias_Toscano\obj\Debug\Veeam_Matias_Toscano.csproj.SuggestedBindingRedirects.cache
+D:\Pruebas programación\Veeam_Matias_Toscano\Veeam_Matias_Toscano\obj\Debug\Veeam_Matias_Toscano.csproj.CoreCompileInputs.cache
+D:\Pruebas programación\Veeam_Matias_Toscano\Veeam_Matias_Toscano\obj\Debug\Veeam_Matias_Toscano.exe
+D:\Pruebas programación\Veeam_Matias_Toscano\Veeam_Matias_Toscano\obj\Debug\Veeam_Matias_Toscano.pdb
